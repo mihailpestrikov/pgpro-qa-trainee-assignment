@@ -39,8 +39,8 @@ academy-project/
 1. **Установка и запуск**
 
 ```bash
-git clone <repository-url>
-cd academy-project
+git clone pgpro-qa-trainee-assignment
+cd pgpro-qa-trainee-assignment
 docker-compose up -d
 ```
 
